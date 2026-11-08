@@ -27,7 +27,7 @@ The `GhostConv + SPPF` configuration is included only as an ablation variant, no
 
 Try the interactive marine detection demo:
 
-[🚀 Open Live Demo](https://huggingface.co/spaces/Wizzas/Marine-Object-Detection)
+[🚀 Open Live Demo](https://marine-object-detection.onrender.com/)
 
 ## My Contributions
 
